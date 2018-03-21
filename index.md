@@ -7,7 +7,7 @@ A conference about tech ethics from a developer's perspective.
  - What should we be thinking about when we design, write, test or observe our code and products? 
  - Should we define an ethical code for software developers?
  - How do ethics work at web scale?
- - Wanting to be ethical is one thing. What processes or tools can we use to make ethics actually happen?
+ - Wanting to be ethical is one thing, what processes or tools can we use to make ethics actually happen?
 
 We'll ask a lot of questions. Hopefully, we'll generate some thoughts, ideas, and community.  
 

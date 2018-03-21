@@ -17,5 +17,3 @@ We only have limited capacity, we'll open up ticket sales soon.
 
 ## Who Are We?
 CoedEthics is a conference from the people behind CoedCode, the tech meetup for all ages, genders, races, levels of experience and (dis)abilities. Ethics in tech is a debate for everyone.
-
-> Written with [StackEdit](https://stackedit.io/).

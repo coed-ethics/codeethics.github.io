@@ -20,3 +20,12 @@ CoedEthics is a conference from the people behind CoedCode, the tech meetup for 
 
 ## What Are We Going to Do on GitHub?
 Watch this space. We'll be using GitHub to start building, soliciting and listing resources for developers who want to know more about ethics in tech.
+
+## How Can You Help?
+ - We are looking for sponsors. Contact @anne_e_currie or anne.currie@container-solutions.com to discuss this or any aspect of what we are up to.
+ - Come along.
+ - Talk about developer-led ethics.
+ - Contribute to our GitHub (when it goes live).
+
+# Platinum Sponsors
+[Container Solutions](http://www.container-solutions.com). Yay!! Many thanks to Jamie Dobson and the lovely team (who are hiring).

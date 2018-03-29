@@ -2,7 +2,7 @@
 
 13th July 2018, The Reactor, Shoreditch
 
-A conference about tech ethics from a developer's perspective.
+A summit-style conference about tech ethics from a developer's perspective.
 
  - What should we be thinking about when we design, write, test or observe our code and products? 
  - Should we define an ethical code for software developers?

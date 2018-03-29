@@ -15,8 +15,15 @@ CoedEthics will be a one day conference with a vigorous hallway track! We will b
 
 We only have limited capacity, we'll open up ticket sales soon.
 
+# What Are We Trying To Achieve?
+This is a summit conference about bottom-up, developer-driven ethics. How can we make developers the last bastion of defence against unethical code? After all, we have to write and deploy it! It's as much a psychology discussion as a technical one.
+
+We'll be mixing talks on ethical decision making at scale, building ethical products vs unethical ones (evil vs good chatbots), the psychology of making and standing by social decisions and pragmatic application of ethics within the Agile or CD process, with hopefully the results of some live trials that we will be running between now and the conference. 
+
+Should developers be amoral guns for hire? Can we be more and if so, what resources are available to help us? 
+
 ## Who Are We?
-CoedEthics is a conference from the people behind CoedCode, the tech meetup for all ages, genders, races, levels of experience and (dis)abilities. Ethics in tech is a debate for everyone.
+CoedEthics is a conference from the people behind CoedCode, the tech meetup for all ages, genders, races, levels of experience in tech and (dis)abilities. Ethics in tech is a debate for everyone.
 
 ## What Are We Going to Do on GitHub?
 Watch this space. We'll be using GitHub to start building, soliciting and listing resources for developers who want to know more about ethics in tech.

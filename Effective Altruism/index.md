@@ -1,5 +1,5 @@
 # Effective Altruism
-The concept of effective altruism (EA) is a very intreesting one. That due to our cognitive biases, 
+The concept of effective altruism (EA) is a very interesting one. That due to our cognitive biases, 
 including our human lack of ability to judge big numbers, what we feel is "doing good" might not be what benefits the most people. 
 
 “But if you ever have a choice, dear reader, between saving a single life and saving the whole world - then save the world. Please. Because beyond that warm glow is one heck of a gigantic difference.” - [One Life Against the World](https://www.lesswrong.com/posts/xiHy3kFni8nsxfdcP/one-life-against-the-world), Rationality A-Z

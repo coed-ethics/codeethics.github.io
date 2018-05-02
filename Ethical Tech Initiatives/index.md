@@ -203,3 +203,36 @@ Ensuring best practice in technology that accounts for real, messy humans.  Crea
 
 ### Things to Think About
 - Cheap smartphones leave poor vulnerable http://www.slate.com//articles//technology//future_tense//2017//04//cheap_smartphones_leave_the_poor_vulnerable_to_fraud_and_harassment.html
+- Amusing examples of supply chain fraud - even blockchains cannot always help! http://www.chyp.com/the-blockchains-salad-days/ 
+- Unexpected hacks and gaming the system
+- Accelerometers hacked with sound waves https://www.bleepingcomputer.com/news/hardware/researchers-hack-accelerometers-with-sound-waves/
+- Malicious AV attacks https://www.technologyreview.com/s/608618/hackers-are-the-real-obstacle-for-self-driving-vehicles/
+- Gaming surge pricing http://www.telegraph.co.uk/technology/2017/08/02/uber-drivers-gang-cause-surge-pricing-research-says/ 
+- How systems can encourage people to lie https://www.computerworld.com/article/3190046/data-privacy/honesty-is-not-the-best-privacy-policy.html
+- Gendered security issues https://motherboard.vice.com/en_us/article/9kaxge/how-to-use-signal-without-giving-out-your-phone-number-a-gendered-security-issue
+- Think about how families work - unlike this google example:
+- Think about how you do user research for groups who aren’t like your staff https://blog.prototypr.io/doing-user-research-in-emerging-markets-2a5273f8ebba 
+- Think about dependencies - eg is it reasonable to require facebook for login https://thebolditalic.com/facebook-goes-full-black-mirror-how-facebook-is-making-membership-a-prerequisite-to-everyday-e88fb03b0eb9 
+- Remember statistics do not reflect lived experience https://medium.com/backchannel/failing-to-see-fueling-hatred-2c0fbae77ef9
+- Challenges of costs and parts for ongoing maintenance (fairphone example illustrating tradeoffs ) https://www.fairphone.com/en/the-latest-news-on-the-fairphone-1/ 
+- Don’t brick your product when you get a bad review https://arstechnica.com/information-technology/2017/04/iot-garage-door-opener-maker-bricks-customers-product-after-bad-review/
+- Software updates - should you continue them forever? Or hard sunset? https://www.schneier.com/blog/archives/2017/06/is_continuing_t.html 
+- Maintenance of software infrastructure you might depend on 
+- good practice around donations - see end  https://blog.mythic-beasts.com/2017/06/07/encryption-is-vital/ 
+- Issues of infrastructure maintenance https://hbr.org/2017/07/could-open-source-code-make-our-y2k-fears-finally-come-true
+- Dependence on volunteers for key digital infrastructure is problematic http://www.fordfoundation.org/ideas/equals-change-blog/posts/every-day-we-rely-on-digital-infrastructure-built-by-volunteers-what-happens-when-it-fails/#top
+
+### Further Reading
+- Systems effects in AI - what happens if an AI designed for Germany is used in Italy? https://theconversation.com/never-mind-killer-robots-even-the-good-ones-are-scarily-unpredictable-82963
+- If things go wrong is there a black box? https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjj_rnx0K7WAhVDJMAKHa2xC8MQFggoMAA&url=https%3A%2F%2Fora.ox.ac.uk%2Fobjects%2Fuuid%3Aed6cd0ec-1cc9-453e-9b8d-48807a2ceebc%2Fdatastreams%2Fbin0d06d93e-085c-4b22-bde8-6bf3dde5f7fc&usg=AFQjCNFzKl_kKk5HipfxeZOhB_Fgw6XlfA 
+- Automated book culling software drives librarians to create fake patrons to save endangered titles - how users can react to counter the intent of a new technology https://boingboing.net/2017/01/02/automated-book-culling-softwar.html 
+- A confusion of music streaming options http://fieldguide.gizmodo.com/how-to-safely-share-your-hbo-netflix-and-other-stream-1797530211
+- How the web has become unreadable https://www.wired.com/2016/10/how-the-web-became-unreadable/
+- Facebook protects white men more than black kids https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms
+- How not everyone gets nice things - pride emoji on facebook was only available for some https://www.theatlantic.com/technology/archive/2017/06/facebook-pride-reaction/531633/
+- Managing security updates and vulnerabilities  - bad example from Miele https://motherboard.vice.com/en_us/article/pg9qkv/a-hackable-dishwasher-is-connecting-hospitals-to-the-internet-of-shit 
+- A transitional time in tractors when it’s OK to sell them, block independent repairs, but also disclaim liability for lost usage time https://motherboard.vice.com/en_us/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware
+- Second hand sales risks - http://wtkr.com/2017/02/18/why-buying-used-cars-could-put-your-safety-at-risk/
+- What happens when software car companies die http://www.thedrive.com/polizei144/6454/what-happens-when-software-based-car-companies-die
+- Bad customer support example at jawbone https://www.theverge.com/2017/1/24/14365870/jawbone-customer-support-problems-response-fitness-trackers 
+

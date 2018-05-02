@@ -150,3 +150,38 @@ https://www.planetfriendlyweb.org
 - Young people making their own ways to share news to work around the unreliability of social media sites, where people see different content http://kf-site-production.s3.amazonaws.com/publications/pdfs/000/000/230/original/Youth_News.pdf 
 - Who cleans self owning cars? https://internetofpeople.eu/who-cleans-self-owning-cars/
 - Google streetview cars collecting wifi info on the side https://www.wired.com/2012/05/google-wifi-fcc-investigation/
+
+
+## Contribution 
+
+Sharing how value is created in a transparent and understandable way.  Determining all of the ways and parties that value - which could mean information or formal or informal labour - is contributed to a technology product. It’s about then sharing these value flows, those involved in them, and what is being exchanged publicly and in a way that people are able to easily understand.
+
+Information could include datasets, open source code, what people enter into forms or photos they upload, sensor data, and so on, from individuals, projects, organisations or the public domain (such as Wikipedia, or open data from government). Labour encompasses the formal effort contributed by teams, partners, consultants and contractors, including microlabour (such as Mechanical Turkers or content checkers). Labour also encompasses informal contributions such as community moderators, users completing captchas, etc.  
+
+### Tools or Examples
+- Idea to surface who has helped on a website http://humanstxt.org/
+- Licenses to support the commons https://medium.com/@fabianhjr/libre-software-isnt-radical-draft-rfc-642ff84ad516
+- New models of supporting software infrastructure like sponsorship http://redmonk.com/jgovernor/2017/07/25/the-new-patreon-economy/
+- Data collection, consumer loyalty etc https://simplysecure.org/blog/loyalty
+- Mechanical Turkers training AIs, and AI value https://www.thenews.coop/114945/topic/technology/amazon-mechanical-turk-workers-artificial-intelligence-technology/
+- How something like Google Snippets can destroy a business https://theoutline.com/post/1399/how-google-ate-celebritynetworth-com
+- Contribute your voice to an open source recognition engine https://voice.mozilla.org/
+- How AI can unlock value beyond the individual data value - particularly important to think about this for public data sets where the value may be captured and realised in the private sector https://techcrunch.com/2016/07/09/we-need-to-talk-about-ai-and-access-to-publicly-funded-data-sets/
+- Ideas for how data could be handled more responsibly https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/ 
+- City data, private deals - an Uber example https://thebaffler.com/latest/when-uber-bares-hoard 
+- Nice example of communicating http://www.channel4.com/4viewers/viewer-promise 
+- Publish things like error rates of your algorithms - so people know how safe your edible fungi identification app is! https://twitter.com/mathbabedotorg/status/889460244706930689 
+- Good example - signage for users and data discarded not horded https://www.handelsblatt.com/my/politik/deutschland/datenschuetzer-zu-real-werbebildschirm-gesichtsscan-im-supermarkt-ist-unbedenklich/19921456.html?ticket=ST-1574175-GYh533ruGsuRcQU25Zab-ap2 
+- The ODI Data Ethics Canvas https://theodi.org/article/data-ethics-canvas/ 
+
+### Things to Think About
+- Don’t secretly track things https://www.theguardian.com/world/2015/dec/25/hyde-park-visitors-tracked-mobile-phone-data-ee or hide why you do stuff https://twitter.com/glynwintle/status/908591485280571392
+- Sending data before a form is submitted is also bad https://gizmodo.com/before-you-hit-submit-this-company-has-already-logge-1795906081
+- Transparency challenges in safety reporting http://thehill.com//blogs//pundits-blog//technology//318184-self-driving-cars-should-disengage-from-public-reporting 
+- Limits of the transparency ideal (especially around algorithms) http://journals.sagepub.com/doi/full/10.1177/1461444816676645 
+- Design for emotion as well as need. And think about the balance between transparency and UX https://medium.com/@joshuamouldey/the-role-of-truth-in-designing-interfaces-to-public-services-914426c3426e 
+
+### Further Reading
+- Headphones that spy on you http://www.theregister.co.uk//2017//04//20//bose_sued_privacy
+- Light relief - apple terms and conditions as a comic https://www.indy100.com/article/youve-finally-got-no-excuse-for-avoiding-reading-apples-terms-and-conditions-7563656
+- https://motherboard.vice.com/en_us/article/evpz7a/turn-off-wi-fi-and-bluetooth-apple-ios-11  ios11 settings don’t do what you think

@@ -236,3 +236,55 @@ Ensuring best practice in technology that accounts for real, messy humans.  Crea
 - What happens when software car companies die http://www.thedrive.com/polizei144/6454/what-happens-when-software-based-car-companies-die
 - Bad customer support example at jawbone https://www.theverge.com/2017/1/24/14365870/jawbone-customer-support-problems-response-fitness-trackers 
 
+## Activities:
+
+Value Proposition Canvas
+https://www.peterjthomson.com/2013/11/value-proposition-canvas/value-proposition-canvas-questions/ 
+
+ODI’s Data Ethics Canvas [PDF download]
+
+The below is an example brainstorming output, showing aspects of technology where standards or best practices might apply, for the case of a wearable fitness tracker, as these might be brainstormed by the product team:
+
+- hardware
+- electronics supply chain (sustainability, source provenance)
+- Electronics design
+- Radio / RF waveband,   protocol,  compliance (EMC)
+- Security (encryption of communications and data; where are crypto keys generated and stored?)
+- How random is the random number generator?
+- materials / recyclability
+- Fixability
+- End of life process 
+- Packaging - eg fit with common letterbox size for delivery
+- phone app
+- apple store requirements
+- google play requirements
+- usability
+- Accessibility
+- Compliance with different phone hardware 
+- Compliance with different phone operating systems
+- databases
+- security
+- hosted services
+- energy efficiency of hosting
+- python code and frameworks, how mature vs cutting edge do we select
+- Coding style
+- Appropriate open source attribution for common libraries
+- Use of github, how do we make sure keys and certificates don’t get inappropriately logged in our version control
+- Unit tests
+- Deployment practices - continuous integration
+- Monitoring and fault handling (devops)
+- online shop
+- e retailing
+- payments security
+- legal T&C
+- Understandability of T&C (GDPR ready)
+- Personal data handling and storage
+- End to end encryption
+- Data minimisation
+- Who has access to data / authentication
+- What info do our customer support team need?
+- Vetting of support agents?
+- Website analytics and other tracking data
+
+# Ed Notes
+This is very long and needs to be broken up into bite-sized pieces

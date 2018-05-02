@@ -3,7 +3,7 @@ Tech think tank [Doteveryone](https://doteveryone.org.uk/) have put together a v
 We are encouraged to update it. They are also kicking off their own movement, which I've included an introduction to below.
 
 # Doteveryone's View On What Responsible Technology Means
-(Ed. Note - this is UK tech think tank [Doteveryone](https://doteveryone.org.uk/)'s suggestion. Like everything here, it's a part of the debate not the end of it!
+(Ed. Note - this is UK tech think tank [Doteveryone](https://doteveryone.org.uk/)'s suggestion. Like everything here, it's a part of the debate not the end of it!)
 
 ## Introduction
 Responsible Technology considers the social impact it creates and the unintended consequences it might have
@@ -112,3 +112,41 @@ Fairness and decent treatment is important here; the Zappos example of low CEO s
 - Diversity debt https://500.co/diversity-debt-how-much-does-your-startup-have/
 - Treating different roles with respect and not over valorising developers https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
 - Worker experiences in on demand economy - how Uber's robot management creates bad working conditionspapers.ssrn.com/sol3/papers.cfm?abstract_id=2686227
+
+
+## Context 
+
+Looking beyond the individual user and taking into account technology’s potential impact and  consequences on society.  Technology that understands and respects the greater contexts and ecosystems it operates within and the potential impacts - positive, negative or a bit of both - it could have on the institutions, communities and relationships that make up society. This is about deciding on tradeoffs and explaining these to not only the direct stakeholders of your technology but those who might be affected.  
+
+### Tools or Examples
+- Iceberg canvas for assessing hidden impact https://medium.com/@willwai/the-iceberg-canvas-9f90d50de656 
+- Check our ethical tech directory for some specific domain examples of ethics standards and practices (and please add more, and help by tagging what’s there! Still a work in progress) https://drive.google.com/open?id=1SN6hYeKe3eRK6x9D0Sr7GpCA4nirpyo3u68xG1A6NDs 
+
+### Things to Think About
+- Using thought experiments to explore possible futures at a meaningful level (self driving car example - more than the trolley problem!) https://www.forbes.com/sites/patricklin/2017/04/03/robot-cars-and-fake-ethical-dilemmas/#62b245313a26
+- Designing for accountability and power http://blog.memespring.co.uk/2016/11/23/oscon-2016/ 
+- Social side effects of surveillance https://www.socialcooling.com/
+- Can you get sued for bad code? http://www.eejournal.com/article/20161116-liability/ 
+- Security threats via phone screen repair https://arstechnica.com/information-technology/2017/08/a-repair-shop-could-completely-hack-your-phone-and-you-wouldnt-know-it/
+- What do you do when the government comes asking for customer info? https://www.eff.org/who-has-your-back-2017
+- A tale of why you need human options in computer systems https://www.theguardian.com/us-news/2017/apr/03/identity-theft-racial-justice 
+- Pros and cons of decisions, eg EU Right to Roam - good for mobile bills today, bad in other ways https://disruptiveviews.com/13-things-eu-didnt-tell-roam/
+- Unexpected consequences of self driving cars http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/ 
+- Good example - audi offering level 3 autonomy and also taking liability for accidents if it's used correctly http://www.caradvice.com.au/582380/audi-to-take-full-responsibility-in-event-of-autonomous-vehicle-crash/
+https://www.planetfriendlyweb.org 
+
+
+### Further Reading
+- Startups vs companies and breaking the law https://hbr.org/2017/06/why-you-cant-just-tell-a-company-be-more-like-a-startup
+- Is facebook a structural threat to a free society? http://www.truthhawk.com/is-facebook-a-structural-threat-to-free-society/
+- Tech giants and civic power https://www.kcl.ac.uk//sspp//policy-institute//CMCP//Tech-Giants-and-Civic-Power.pdf 
+- Uber vs black cabs http://www.cityam.com/260416/londons-black-cab-industry-needs-regulatory-overhaul
+- Social chilling effects of google https://www.theguardian.com/commentisfree/2017/jun/18/google-not-gchq--truly-chilling-spy-network
+- The human toll of online moderation https://www.newyorker.com/tech/elements/the-human-toll-of-protecting-the-internet-from-the-worst-of-humanity 
+- MOJ GPS tracker trial - had unexpected outcomes https://blog.ouseful.info/2016/10/31/uk-ministry-of-justice-gps-tagging-trial/ 
+- IOT liability discussion https://medium.com/privacy-international/time-to-decide-on-internet-of-things-liability-c39cee0142ff
+- Complexity of procurement, data, public and private sectors etc - police body cams http://www.slate.com/blogs/future_tense/2017/04/05/taser_international_now_axon_offers_police_free_body_cameras.html 
+ how much access do you have to your tesla’s data, if you end up in court? do tesla check with you before sharing that data with the courts? https://www.theguardian.com/technology/2017/apr/03/the-customer-is-always-wrong-tesla-lets-out-self-driving-car-data-when-it-suits
+- Young people making their own ways to share news to work around the unreliability of social media sites, where people see different content http://kf-site-production.s3.amazonaws.com/publications/pdfs/000/000/230/original/Youth_News.pdf 
+- Who cleans self owning cars? https://internetofpeople.eu/who-cleans-self-owning-cars/
+- Google streetview cars collecting wifi info on the side https://www.wired.com/2012/05/google-wifi-fcc-investigation/

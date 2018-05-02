@@ -35,13 +35,13 @@ The organisation creating the product or service will be established in an appro
 There needs to be some sort of structure which can be responsible for the product or service and can be held liable if there are problems (this might be harder for a purely free open source collaboration without structure). 
 
 ### Tools or Examples
-Transparency report card
-Beneficial ownership information
-Companies House or equivalent info
-Stakeholder map 
-Design led governance https://medium.com/@sarahdrummond/design-led-governance-b39b83595756 
-Commons business models https://www.theverge.com/2017/7/27/16019222/open-source-data-ai-mozilla-common-voice-project
-R100 list https://docs.google.com/spreadsheets/d/1z8NNnc_eRc_FlfciHPWSFqY0odcpWqAsS3oIrwfMrGE/edit#gid=0 
+- Transparency report card
+- Beneficial ownership information
+- Companies House or equivalent info
+- Stakeholder map 
+- Design led governance https://medium.com/@sarahdrummond/design-led-governance-b39b83595756 
+- Commons business models https://www.theverge.com/2017/7/27/16019222/open-source-data-ai-mozilla-common-voice-project
+- R100 list https://docs.google.com/spreadsheets/d/1z8NNnc_eRc_FlfciHPWSFqY0odcpWqAsS3oIrwfMrGE/edit#gid=0 
 https://www.slideshare.net/chris.d.adams/djangocon-europe-2017-planet-friendly-django (especially slide 10 onwards!) which includes a new framework for thinking about the environmental impact of tech 
 
 ### Things to Think About
